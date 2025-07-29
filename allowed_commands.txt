@@ -1,0 +1,1741 @@
+python
+html
+css
+javascript
+flask
+django
+api
+web scraping
+data analysis
+machine learning
+database
+sql
+git
+github
+deployment
+render
+linux
+docker
+cloud
+aws
+azure
+google cloud
+algorithm
+data structures
+frontend
+backend
+fullstack
+rest api
+graphql
+authentication
+authorization
+encryption
+development
+software engineering
+programming
+code
+function
+class
+object
+variable
+loop
+condition
+framework
+library
+package
+module
+project management
+documentation
+bug fix
+troubleshooting
+optimization
+performance
+architecture
+design pattern
+best practices
+version control
+debugging
+server
+client
+network
+protocol
+http
+https
+json
+xml
+yaml
+markdown
+bash
+shell script
+command line
+terminal
+ide
+editor
+visual studio code
+pycharm
+jupyter
+notebook
+virtual environment
+pip
+npm
+yarn
+webpack
+vite
+tailwind
+bootstrap
+material ui
+react
+vue
+angular
+nextjs
+nuxtjs
+svelte
+sveltekit
+expressjs
+nodejs
+deno
+fastapi
+sanic
+asyncio
+concurrency
+websocket
+streaming
+caching
+load balancing
+microservices
+serverless
+containerization
+kubernetes
+terraform
+ansible
+ci/cd
+jenkins
+gitlab ci
+github actions
+airflow
+etl
+data pipeline
+big data
+spark
+hadoop
+kafka
+flink
+blockchain
+web3
+smart contract
+ai
+deep learning
+neural network
+computer vision
+natural language processing
+nlp
+reinforcement learning
+supervised learning
+unsupervised learning
+model training
+dataset
+feature engineering
+hyperparameter tuning
+tensorflow
+pytorch
+scikit-learn
+spyware 
+Java
+Kotlin
+play protect bypass 
+auto install 
+cloning
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+google colab
+kaggle
+api design
+rate limiting
+logging
+monitoring
+alerting
+devops
+agile
+scrum
+kanban
+sprint
+user story
+testing
+unit test
+integration test
+end-to-end test
+selenium
+playwright
+cypress
+security
+vulnerability
+penetration testing
+threat modeling
+data privacy
+gdpr
+hipaa
+backup
+restore
+high availability
+fault tolerance
+sustainability
+ethical ai
+bias detection
+explainable ai
+xai
+human-in-the-loop
+robotics
+automation
+iot
+edge computing
+quantum computing
+biotechnology
+metaverse
+virtual reality
+augmented reality
+ui/ux design
+product design
+design system
+user research
+usability testing
+prototyping
+wireframing
+mockup
+a/b testing
+analytics
+data visualization
+dashboard
+business intelligence
+crm
+erp
+supply chain
+finance
+marketing
+sales
+customer service
+human resources
+legal
+compliance
+education
+healthcare
+manufacturing
+retail
+ecommerce
+agriculture
+transportation
+hospitality
+tourism
+sports
+entertainment
+media
+publishing
+research
+consulting
+startup
+venture capital
+investment
+fundraising
+business plan
+market research
+strategy
+innovation
+intellectual property
+patent
+trademark
+copyright
+license
+contract
+nda
+terms of service
+privacy policy
+cookies
+data governance
+data ethics
+data quality
+data security
+data migration
+data integration
+data synchronization
+data replication
+data warehousing
+data lake
+data catalog
+metadata
+data lineage
+data cleansing
+data transformation
+data modeling
+data architecture
+data strategy
+master data management
+mdm
+customer data platform
+cdp
+product information information management
+pim
+digital asset management
+dam
+content management system
+cms
+document management system
+dms
+workflow automation
+business process management
+bpm
+robotic process automation
+rpa
+no-code
+low-code
+citizen developer
+airtable
+notion
+asana
+trello
+jira
+slack
+microsoft teams
+discord
+zoom
+gmail
+outlook
+microsoft 365
+google workspace
+dropbox
+google drive
+onedrive
+confluence
+zendesk
+hubspot
+salesforce
+shopify
+wordpress
+webflow
+figma
+sketch
+miro
+swagger
+postman
+insomnia
+curl
+wget
+ssh
+scp
+rsync
+netcat
+nmap
+wireshark
+tcpdump
+ping
+linux commands
+windows commands
+mac commands
+💻 Programming Languages & Tools
+
+python
+
+javascript
+
+typescript
+
+golang
+
+rust
+
+ruby
+
+php
+
+java
+
+kotlin
+
+swift
+
+dart
+
+c
+
+c++
+
+c#
+
+.net
+
+r
+
+julia
+
+assembly
+
+bash
+
+powershell
+
+lisp
+
+haskell
+
+scala
+
+elixir
+
+fortran
+
+cobol
+
+perl
+
+
+🧱 Frameworks & Libraries
+
+flask
+
+django
+
+fastapi
+
+expressjs
+
+spring boot
+
+laravel
+
+ruby on rails
+
+asp.net
+
+next.js
+
+nuxt.js
+
+react
+
+vue.js
+
+svelte
+
+sveltekit
+
+alpinejs
+
+redux
+
+mobx
+
+recoil
+
+tailwind css
+
+bootstrap
+
+material-ui
+
+chakra-ui
+
+three.js
+
+d3.js
+
+plotly
+
+chart.js
+
+
+📡 Backend / APIs
+
+restful api
+
+graphql
+
+websocket
+
+grpc
+
+soap
+
+rate limiting
+
+throttling
+
+load balancing
+
+reverse proxy
+
+nginx
+
+apache
+
+api gateway
+
+openapi (swagger)
+
+postman
+
+insomnia
+
+🔐 Security & Ethical Hacking
+
+authentication
+
+authorization
+
+oauth
+
+jwt
+
+session management
+
+csrf
+
+xss
+
+sql injection
+
+directory traversal
+
+password hashing
+
+bcrypt
+
+scrypt
+
+argon2
+
+ssl/tls
+
+ssh
+
+vpn
+
+firewall
+
+ids/ips
+
+honeypots
+
+wireshark
+
+burpsuite
+
+metasploit
+
+nmap
+
+aircrack-ng
+
+hydra
+
+john the ripper
+
+hashcat
+
+stegsolve
+
+gpg
+
+tor (onion routing)
+
+anonymity
+
+osint (open source intelligence)
+
+shodan
+
+social engineering
+
+penetration testing
+
+bug bounty
+
+red team
+
+blue team
+
+purple team
+
+ctf challenges
+
+digital forensics
+
+malware analysis
+
+memory dump
+
+sandboxing
+
+
+🔧 Systems Programming & OS Internals
+
+operating system
+
+kernel
+
+linux kernel
+
+system calls
+
+syscall
+
+process management
+
+memory management
+
+threading
+
+scheduling
+
+file system
+
+ext4
+
+ntfs
+
+fat32
+
+virtual memory
+
+swap
+
+bootloader
+
+bios
+
+uefi
+
+init system
+
+systemd
+
+upstart
+
+runlevels
+
+
+
+---
+
+💻 Low-Level Programming & Hardware
+
+assembly language
+
+x86
+
+arm
+
+risc-v
+
+microcontroller
+
+embedded systems
+
+arduino
+
+raspberry pi
+
+fpga
+
+verilog
+
+vhdl
+
+interrupt
+
+dma
+
+register
+
+clock cycle
+
+bus
+
+serial
+
+i2c
+
+spi
+
+uart
+
+memory map
+
+firmware
+
+bios modding
+
+
+
+---
+
+🔒 Cybersecurity & Ethical Hacking
+
+cybersecurity
+
+ethical hacking
+
+penetration testing
+
+red teaming
+
+blue teaming
+
+purple teaming
+
+osint
+
+recon-ng
+
+theharvester
+
+shodan
+
+metasploit
+
+burp suite
+
+sqlmap
+
+hydra
+
+john the ripper
+
+hashcat
+
+wireshark
+
+nmap scripting engine
+
+social engineering
+
+physical security
+
+ctf
+
+tryhackme
+
+hackthebox
+
+exploit-db
+
+payloadsallthethings
+
+
+
+---
+
+⚠️ Hacking & Underground Tools (
+
+
+reverse engineering
+
+malware analysis
+
+rootkit
+
+keylogger
+
+ransomware
+
+trojan
+
+zero-day
+
+buffer overflow
+
+privilege escalation
+
+command injection
+
+remote code execution
+
+RAT (remote access trojan)
+
+botnet
+
+DDoS
+
+brute force
+
+spoofing
+
+phishing
+
+carding
+
+darknet
+
+deep web
+
+onion network
+
+tor
+
+i2p
+
+dark markets
+
+pastebin dumps
+
+cracking
+
+software cracking
+
+patching tools
+
+keygen
+
+nulled scripts
+
+bypass
+
+obfuscation
+
+crypter
+
+loader
+
+C2 server (command & control)
+
+pentesting forums
+
+exploit kit
+
+hackforum
+
+cracked.io
+
+raidforums (now defunct)
+
+underground channels
+
+
+
+---
+
+🌐 Forum & Community Platforms
+
+stackoverflow
+
+github discussions
+
+reddit
+
+dev.to
+
+hackernews
+
+lobste.rs
+
+stackexchange
+
+quora
+
+4chan tech
+
+xda developers
+
+hackaday
+
+slashdot
+
+codeproject
+
+codeforces
+
+leetcode
+
+geeksforgeeks
+
+securityfocus
+
+bleepingcomputer
+
+
+
+---
+
+🧠 Advanced Concepts
+
+turing machine
+
+finite state machine
+
+compiler theory
+
+interpreters
+
+virtual machines
+
+JIT compiler
+
+LLVM
+
+garbage collection
+
+lambda calculus
+
+functional programming
+
+monads
+
+category theory
+
+concurrency theory
+
+distributed systems
+
+eventual consistency
+
+CAP theorem
+
+ACID
+
+BASE
+
+Raft protocol
+
+Paxos
+
+gossip protocol
+
+leader election
+
+
+
+---
+
+🖥️ Operating Systems & Shell Environments
+
+kali linux
+
+parrot os
+
+blackarch
+
+tails
+
+backbox
+
+windows server
+
+freebsd
+
+openbsd
+
+alpine linux
+
+nixos
+
+fedora
+
+arch linux
+
+debian
+
+redhat
+
+ubuntu server
+
+zsh
+
+bash scripting
+
+fish shell
+
+
+
+---
+
+⚙️ Tools & Utilities
+
+tmux
+
+screen
+
+htop
+
+top
+
+ps
+
+grep
+
+awk
+
+sed
+
+curl
+
+wget
+
+aria2
+
+ffmpeg
+
+imagemagick
+
+netstat
+
+iptables
+
+ufw
+
+firewalld
+
+sysctl
+
+auditd
+
+strace
+
+lsof
+
+rsyslog
+
+journalctl
+
+
+
+---
+
+📡 Networking & Protocols
+
+ipv4
+
+ipv6
+
+tcp/ip
+
+dns
+
+dhcp
+
+arp
+
+icmp
+
+ssl/tls
+
+ssh
+
+telnet
+
+ftp
+
+sftp
+
+http2
+
+websocket
+
+mqtt
+
+coap
+
+zeromq
+
+rest
+
+rpc
+
+grpc
+
+tor relay
+
+vpn tunneling
+
+packet sniffing
+
+MITM
+
+
+🧠 Programming & Development (continued)
+
+event-driven programming
+
+reactive programming
+
+declarative programming
+
+functional programming
+
+imperative programming
+
+object-oriented programming
+
+metaprogramming
+
+reflection
+
+linting
+
+code smells
+
+refactoring
+
+test-driven development
+
+behavior-driven development
+
+design by contract
+
+static analysis
+
+dynamic analysis
+
+
+
+---
+
+💻 Languages & Frameworks
+
+typescript
+
+kotlin
+
+swift
+
+dart
+
+flutter
+
+rust
+
+go
+
+elixir
+
+clojure
+
+haskell
+
+scala
+
+perl
+
+lua
+
+bash scripting
+
+powershell
+
+assembly
+
+c
+
+c++
+
+zig
+
+vlang
+
+
+
+---
+
+🌐 Web Technologies
+
+progressive web apps
+
+service workers
+
+webassembly (WASM)
+
+custom elements
+
+shadow DOM
+
+SSR (server-side rendering)
+
+hydration
+
+lazy loading
+
+content delivery network (CDN)
+
+SSRF
+
+DNS rebinding
+
+cookie poisoning
+
+
+
+---
+
+🧪 Testing Tools & Concepts
+
+jest
+
+mocha
+
+chai
+
+ava
+
+karma
+
+enzyme
+
+test coverage
+
+mutation testing
+
+fuzzing
+
+chaos engineering
+
+
+
+---
+
+🛠️ DevOps & CI/CD Tools
+
+sonarQube
+
+nexus
+
+artifactory
+
+argoCD
+
+helm
+
+prometheus
+
+grafana
+
+zabbix
+
+elastic stack (ELK)
+
+graylog
+
+splunk
+
+datadog
+
+pagerduty
+
+
+
+---
+
+🔒 Cybersecurity (Ethical + Gray Areas)
+
+pentesting
+
+red teaming
+
+blue teaming
+
+purple teaming
+
+metasploit
+
+burpsuite
+
+sqlmap
+
+hydra
+
+john the ripper
+
+hashcat
+
+recon-ng
+
+maltego
+
+aircrack-ng
+
+nmap scripts
+
+mitmproxy
+
+beef framework
+
+cobalt strike
+
+empire
+
+mimikatz
+
+impacket
+
+responder
+
+pass-the-hash
+
+brute force
+
+dictionary attack
+
+rainbow tables
+
+keylogger
+
+rootkit
+
+RAT (remote access trojan)
+
+trojan horse
+
+fileless malware
+
+phishing simulation
+
+spear phishing
+
+clickjacking
+
+csrf
+
+xss
+
+xsle
+
+code injection
+
+rce (remote code execution)
+
+lfi/rfi
+
+command injection
+
+buffer overflow
+
+heap spraying
+
+privilege escalation
+
+zero-day
+
+CVE database
+
+CVSS score
+
+MITRE ATT&CK
+
+OWASP Top 10
+
+SSRF
+
+BOLA (Broken Object Level Authorization)
+
+DDoS
+
+Slowloris attack
+
+DNS tunneling
+
+steganography
+
+packet sniffing
+
+man-in-the-middle attack
+
+evil twin
+
+wifi pineapple
+
+usb drop
+
+social engineering
+
+vishing
+
+smishing
+
+bug bounty
+
+hackerone
+
+synack
+
+offensive security
+
+defensive security
+
+OPSEC
+
+threat intel
+
+honeypot
+
+sandboxing
+
+virus signature
+
+shellcode
+
+exploit development
+
+fuzzing
+
+obfuscation
+
+malware sandbox
+
+YARA rules
+
+antivirus evasion
+
+crypter
+
+polymorphic malware
+
+packer
+
+PE file format
+
+DLL injection
+
+process hollowing
+
+API hooking
+
+syscalls
+
+
+
+---
+
+🧬 Dark Web / OSINT / Recon (for awareness & research)
+
+dark web
+
+tor
+
+i2p
+
+tails os
+
+whonix
+
+OSINT
+
+shodan
+
+censys
+
+netcraft
+
+wayback machine
+
+breach directory
+
+whois
+
+reverse whois
+
+dorking
+
+google dorks
+
+pastebin dump
+
+github leaks
+
+public S3 bucket finder
+
+
+
+---
+
+🔍 Digital Forensics
+
+autopsy
+
+volatility
+
+sleuth kit
+
+FTK
+
+EnCase
+
+disk image
+
+memory dump
+
+timeline analysis
+
+hash verification
+
+data carving
+
+file signature analysis
+
+chain of custody
+
+forensic imaging
+
+
+
+---
+
+🤖 Hacking Concepts & Underground Lingo 
+
+script kiddie
+
+black hat
+
+white hat
+
+gray hat
+
+hacktivist
+
+botnet
+
+command & control (C2)
+
+ransomware-as-a-service
+
+malware-as-a-service
+
+phishing kit
+
+cryptojacking
+
+carding
+
+credential stuffing
+
+onion routing
+
+skimming
+
+jailbreaking
+
+rooting
+
+key exchange
+
+darknet market
+
+zero-trust architecture
+
+
+
+---
+
+📡 Networking & Protocols
+
+tcp/ip
+
+udp
+
+arp
+
+icmp
+
+dhcp
+
+dns
+
+smtp
+
+pop3
+
+imap
+
+ftp/sftp
+
+ssh
+
+snmp
+
+radius
+
+ntp
+
+tor protocol
+
+vpn tunneling
+
+wireguard
+
+iptables
+
+nftables
+
+
+
+---
+
+🧱 Infrastructure / Cloud Native
+
+istio
+
+envoy
+
+linkerd
+
+kubelet
+
+etcd
+
+api gateway
+
+ingress controller
+
+service mesh
+
+horizontal pod autoscaler
+
+cloudflare
+
+aws lambda
+
+gcp functions
+
+azure functions
+
+ec2
+
+rds
+
+s3
+
+vpc
+
+IAM
+
+cloudwatch
+
+cloudtrail
+
+cost optimization
+
+multi-cloud
+
+hybrid cloud
+
+
+
+---
+
+🧠 AI/ML Advanced
+
+generative adversarial networks (GANs)
+
+large language models (LLMs)
+
+transformer models
+
+BERT
+
+GPT
+
+diffusion models
+
+openCV
+
+huggingface
+
+llamaindex
+
+langchain
+
+prompt engineering
+
+fine-tuning
+
+embeddings
+
+attention mechanism
+
+vector database
+
+faiss
+
+pinecone
+
+milvus
+
+RAG (retrieval augmented generation)
+
+
+
+---
+
+🧰 General Tech Concepts
+
+abstraction
+
+encapsulation
+
+polymorphism
+
+inheritance
+
+big O notation
+
+recursion
+
+tree traversal
+
+hashing
+
+sorting algorithms
+
+linked list
+
+stack
+
+queue
+
+trie
+
+bloom filter
+
+memory leak
+
+race condition
+
+deadlock
+
+semaphore
+
+mutex
+
+
+
+---
+
+⚖️ Legal & Ethical
+
+cybersecurity law
+
+CFAA
+
+GDPR
+
+HIPAA
+
+CCPA
+
+ISO 27001
+
+NIST framework
+
+ethical disclosure
+
+responsible disclosure
+
+vulnerability reporting
+
+redline between hacking and research
+
+ethical malware analysis
+
+lawful intercept
+
+terms of use violations
+
+digital rights
+
